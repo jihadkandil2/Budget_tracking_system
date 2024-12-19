@@ -1,0 +1,22 @@
+{
+  "name": "budget_tracking",
+  "version": "1.0.0",
+  "description": "budget tracking website",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch server.js",
+    "start:prod": "set NODE_ENV=production && node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^5.13.22",
+    "morgan": "^1.10.0"
+  }
+}
