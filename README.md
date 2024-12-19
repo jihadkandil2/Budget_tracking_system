@@ -42,7 +42,7 @@ The **Budget Tracking Website** is a web-based platform designed to help users m
 ---
 
 ## Technology Stack
-- **Frontend**: React
+- **Frontend**: Angular
 - **Backend**: Node.js
 - **Database**: MongoDB
 
